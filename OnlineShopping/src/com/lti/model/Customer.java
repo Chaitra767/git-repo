@@ -23,6 +23,4 @@ public class Customer {
 	public void setCustName(String custName) {
 		this.custName = custName;
 	}
-	
-
 }
